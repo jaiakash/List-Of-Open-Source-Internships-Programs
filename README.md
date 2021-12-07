@@ -81,4 +81,4 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Hack-Club-SRM](https://github.com/Hack-Club-SRM/HCSSoC) (HCSSoC) | Certificates, SWAGs | [timeline](https://github.com/Hack-Club-SRM/HCSSoC#timeline)|
 | [Cross Winter of code](https://crosswoc.ieeedtu.in/) (CrossWoC) | Certificates, SWAGs | [timeline](https://crosswoc.ieeedtu.in/#schedule)|
 | [IIIT-Kalyani Winter of code](https://gdsc-woc.tech/) (WoC 2.0) | Certificates, SWAGs | [timeline](https://gdsc-woc.tech/#timeline)|
-
+| [Delta Winter of code](https://dwoc.io/) (DWOC) | Certificates, SWAGs | December to January|
